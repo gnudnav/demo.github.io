@@ -1,0 +1,261 @@
+ *{
+    margin: 0px;
+    padding: 0px;
+}
+.app{
+    background-color: white;
+    font-family:Arial;
+    
+}
+.header{
+    background-color: white;
+    height: 115px;
+    display: flex;
+   
+    
+}
+.header__navbar{
+    margin: 15px auto; 
+    background-color: white;
+    width: 1560px;
+    height: 84px;
+    display: flex;
+    
+    
+}
+.wrapper__img{
+    background-color: white;
+    width: 31%;
+    height: 100%;
+}
+.wrapper__menu{
+    background-color: white;
+    width: 69%;
+    height: 100%;
+    
+}
+.wrapper__menu--item{
+    background-color:white;
+    height: 60px;
+    margin: 12px 0 12px 0 ;
+}
+.item__nav{
+    list-style: none;
+    display: flex;
+    
+    
+}
+.nav__font{
+    text-decoration: none;
+    color: black;
+    font-size: 13.6px;
+    
+}
+.item__nav--alignment-one{
+    margin-left: 65px;
+    margin-top: 25px;
+}
+.item__nav--alignment-two{
+    margin-left: 45px;
+    margin-top: 25px;
+}
+.item__nav--alignment-three{
+    margin-left: 35px;
+    margin-top: 25px;
+}
+.item__nav--alignment-four{
+    margin-left: 48px;
+    margin-top: 25px;
+}
+.item__nav--alignment-five{
+    margin-left: 48px;
+    margin-top: 25px;
+}
+.item__nav--alignment-six{
+    margin-left: 45px;
+    margin-top: 25px;
+}
+.item__nav--alignment-seven{
+    margin-left: 33px;
+    margin-top: 25px;
+}
+.item__lookfor{
+    margin: 0 30px;
+    color: black;
+}
+.item__shopping{
+    color: black;
+}
+.menu__item{
+    margin-top: 25px;
+}
+.content{
+    background-color: white;
+    height: 878px;
+    margin-bottom:80px ;
+}
+.content__video{
+    background-color: white;
+    height: 878px;
+    margin: 0 auto;
+    width: 1560px;
+
+}
+.navigation{
+    background-color: white;
+    height: 730px;
+}
+.navigation__wrapper{
+    background-color:white;
+    height: 727px;
+    width: 1560px;
+    margin: 0 auto;
+}
+.navigation__font{
+    background-color: white;
+    height: 10%;
+    width: auto;
+}
+p{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    font-size: 25px;
+    padding:20px;
+}
+
+.img--sneaker,
+.img--glasses,
+.img--polo{
+    height: 310px;
+    width: 497px;
+    float: left;
+    margin-bottom: 34.5px;
+}
+.img--glasses,
+.img--bag{
+    margin: 0 34.5px;   
+}
+.img--shirt,
+.img--bag,
+.img--accessories{
+    height: 310px;
+    width: 497px;
+    float: left;
+}
+.sidebar{
+    height: auto;
+    margin-top:80px ;
+}
+ 
+.sidebar__font{
+    background-color: white;
+    height: 15%;
+    width: auto;
+}
+.sideebar__wrapper{
+    background-color:white;
+    height: 420px;
+    width: 1560px;
+    margin: 0 auto;
+}
+.img__one,
+.img__two,
+.img__three{
+    height: 277px;
+    width: 497px;
+    float: left;
+   
+}
+.img__two{
+    margin: 0 34.5px; 
+    margin-bottom: 30px; 
+}
+.h2{
+    text-align: center;
+    padding-top: 20px;
+}
+.h2__font{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    
+}
+.sidebar__wrapper--img{
+    background-color: white;
+    height: 360px;
+    width: 1560px;
+    margin: 0 auto;
+    margin-top: 140px;
+}
+.img__four,
+.img__five,
+.img__six{
+    height: 277px;
+    width: 497px;
+    float: left;
+   
+}
+.img__five{
+    margin: 0 34.5px; 
+    margin-bottom: 30px; 
+}
+.img__seven,
+.img__eight,
+.img__nine{
+    height: 277px;
+    width: 497px;
+    float: left;
+   
+}
+.img__eight{
+    margin: 0 34.5px; 
+    margin-bottom: 30px; 
+}
+.address{
+    height: auto;
+    margin-top: 80px;
+    background-color: white;
+}
+.address__map{
+    margin: 0 auto;
+    background-color: white;
+    height: auto;
+    width: 1560px;
+}
+.address__font{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+    padding:20px;
+    padding-bottom: 5px;
+}
+.fotter{
+    height: 230px;
+    margin-top: 180px;
+
+}
+.fotter__nav{
+    display: flex;
+    margin: 0 auto;
+
+    height: auto;
+    width: 1560px;
+}
+.fotter a{
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+
+}
+.fotter ul{
+    list-style: none;
+    font-family: monospace;
+}
+.fotter li{
+    padding: 3px 0;
+}
+.fotter__nav--font{
+    margin-left: 10px;
+}
