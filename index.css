@@ -239,14 +239,13 @@ p{
 .fotter__nav{
     display: flex;
     margin: 0 auto;
-
     height: auto;
     width: 1560px;
 }
 .fotter a{
     text-decoration: none;
     color: black;
-    font-size: 17px;
+    font-size: 15px;
 
 }
 .fotter ul{
@@ -258,4 +257,25 @@ p{
 }
 .fotter__nav--font{
     margin-left: 10px;
+}
+.fotter__nav--font-row1{
+    margin-left: 50px;
+}
+.fotter__nav--font-row2{
+    margin-left: 130px;
+}
+.nav__search,
+.nav__shopping{
+    margin-left: 50px;
+    margin-top: 25px;
+}
+
+/*Mobile:width < 740px*/
+@media only screen and (max-width:46.1875em){
+
+}
+
+/*Table:width >=740px and width <1024px*/
+@media only screen and (min-width:46.25em) and (max-width:63.9375em){
+    
 }
