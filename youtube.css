@@ -1,0 +1,123 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.app{
+    background-color: white;
+    font-family:Arial;
+    
+}
+.header{
+    background-color: white;
+    height: 115px;
+    display: flex;
+   
+    
+}
+.header__navbar{
+    margin: 15px auto; 
+    background-color: white;
+    width: 1560px;
+    height: 84px;
+    display: flex;
+    
+    
+}
+.wrapper__img{
+    background-color: white;
+    width: 31%;
+    height: 100%;
+}
+.wrapper__menu{
+    background-color: white;
+    width: 69%;
+    height: 100%;
+    
+}
+.wrapper__menu--item{
+    background-color:white;
+    height: 60px;
+    margin: 12px 0 12px 0 ;
+}
+.item__nav{
+    list-style: none;
+    display: flex;
+    
+    
+}
+.nav__font{
+    text-decoration: none;
+    color: black;
+    font-size: 13.6px;
+    
+}
+.item__nav--alignment-one{
+    margin-left: 65px;
+    margin-top: 25px;
+}
+.item__nav--alignment-two{
+    margin-left: 45px;
+    margin-top: 25px;
+}
+.item__nav--alignment-three{
+    margin-left: 35px;
+    margin-top: 25px;
+}
+.item__nav--alignment-four{
+    margin-left: 48px;
+    margin-top: 25px;
+}
+.item__nav--alignment-five{
+    margin-left: 48px;
+    margin-top: 25px;
+}
+.item__nav--alignment-six{
+    margin-left: 45px;
+    margin-top: 25px;
+}
+.item__nav--alignment-seven{
+    margin-left: 33px;
+    margin-top: 25px;
+}
+.nav__search,
+.nav__shopping{
+    margin-left: 60px;
+    margin-top: 25px;
+}
+.nav__search i,
+.nav__shopping i{
+    color: black;
+    font-size: 15px;
+}
+.navigation{
+    background-color: white;
+    height: 728px;
+    margin-top: 80px;
+}
+.navigation__video{
+    background-color: white;
+    margin: 0 auto;
+    height: 728px;
+    width: 1560px;
+}
+.navigation__video--menu{
+    background-color: white;
+    margin: 0 auto;
+    height: 728px;
+    width: 1000px;
+}
+.menu__font{
+    background-color: white;
+    height: 30px;
+    margin: 0 50px;
+    padding: 70px 0; 
+}
+p{
+    color: black;
+    font-size: 27px;
+    font-weight: bold;  
+}
+.menu__video{
+    background-color: white;
+    height: 76.5%;
+}

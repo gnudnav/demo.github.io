@@ -79,13 +79,7 @@
     margin-left: 33px;
     margin-top: 25px;
 }
-.item__lookfor{
-    margin: 0 30px;
-    color: black;
-}
-.item__shopping{
-    color: black;
-}
+
 .menu__item{
     margin-top: 25px;
 }
@@ -268,6 +262,19 @@ p{
 .nav__shopping{
     margin-left: 60px;
     margin-top: 25px;
+}
+.nav__search i,
+.nav__shopping i{
+    color: black;
+    font-size: 15px;
+}
+.img--sneaker:hover,
+.img--glasses:hover,
+.img--polo:hover,
+.img--shirt:hover,
+.img--bag:hover,
+.img--accessories:hover{
+    box-shadow: 5px 5px 8px #888888;  
 }
 
 /*Mobile:width < 740px*/
